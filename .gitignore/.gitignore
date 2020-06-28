@@ -1,4 +1,4 @@
-    # exclude everything except directory foo/bar
+    # exclude everything except directory /node_modules
     /*
     !/node_modules
     !/node_modules/*
