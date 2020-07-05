@@ -1,2 +1,2 @@
 # Jest
-a smal Demo Projekt für Jest-Test
+A small Demo Projekt für Jest-Test
