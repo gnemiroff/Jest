@@ -8,7 +8,7 @@ test('add 2 + 3 equals 5', ()=>{
 
 
 
-// null tests --
+// null tests ---
 test('null', () => {
     const n = null;
     expect(n).toBeNull();
