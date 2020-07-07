@@ -20,7 +20,7 @@ test('null', () => {
 
 // Number tests
 test('two plus two', () => {
-    const value = 2 + 4;
+    const value = 2 + 2;
     expect(value).toBeGreaterThan(3);
     expect(value).toBeGreaterThanOrEqual(3.5);
     expect(value).toBeLessThan(5);
