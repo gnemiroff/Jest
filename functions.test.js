@@ -10,7 +10,7 @@ test('add 2 + 3 equals 5', ()=>{
 
 // null tests ---
 test('null', () => {
-    const n = null ;
+    const n = null;
 
     expect(n).toBeNull();
     expect(n).toBeDefined();
